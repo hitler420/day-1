@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class teach {
+     public static void main(String[] args) {
+    	 Scanner sc=new Scanner(System.in);
+    	 int i,n=5;
+    	 byte age;
+    	 String name;
+    	 for(i=0;i<n;i++) {
+    		age=sc.nextByte();
+    		name=sc.nextLine();
+    		
+    		 }
+    	 while(i<5) {age=sc.nextByte();
+ 		name=sc.nextLine();}
+    	 do {age=sc.nextByte();
+ 		name=sc.nextLine();
+ 		
+    		 
+    	 }
+     }
+     
+}

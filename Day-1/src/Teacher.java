@@ -1,0 +1,29 @@
+
+public class Teacher {
+	
+  private string name;
+  private byte age;
+  private string qual;
+public string getName() {
+	return name;
+}
+public void setName(string name) {
+	this.name = name;
+}
+public byte getAge() {
+	return age;
+}
+public void setAge(byte age) {
+	this.age = age;
+}
+public string getQual() {
+	return qual;
+}
+public void setQual(string qual) {
+	this.qual = qual;
+}
+		
+	
+	
+    system.out.println("hello");
+}

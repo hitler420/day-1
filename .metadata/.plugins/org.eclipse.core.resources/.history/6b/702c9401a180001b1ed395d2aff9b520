@@ -1,0 +1,14 @@
+
+public class Teacher {
+	private name(){
+	String name;};
+	private age(){
+		byte age;
+	};
+	private qualification(){
+		String qual;
+		
+	};
+	
+    System.out.println("hello")
+}
