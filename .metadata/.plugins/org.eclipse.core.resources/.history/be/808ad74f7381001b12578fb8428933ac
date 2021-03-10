@@ -1,0 +1,10 @@
+
+public class new2 {
+  public new2(enu male) {
+		// TODO Auto-generated constructor stub
+	}
+
+void hello(String name) {
+	  System.out.println(name);
+  }
+}

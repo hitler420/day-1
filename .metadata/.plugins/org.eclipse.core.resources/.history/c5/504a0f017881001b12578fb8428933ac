@@ -1,0 +1,13 @@
+
+public class manage {
+public static void main(String[] args) {
+	details ob1=new details();
+	ob1.details("biriyani","chennai");
+	ob1.details("dosa","kerala");
+}
+}
+class details{
+	public void details(String order,String location) {
+		System.out.println(order +""+ location);
+	}
+}

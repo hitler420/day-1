@@ -1,0 +1,10 @@
+
+public class oms {
+     public static void main(String[] args) {
+		order obj1=new order("Biryani","chennai"); 
+	}
+}
+public class order(String order,String location) {
+	System.out.println(order + location);
+	
+}

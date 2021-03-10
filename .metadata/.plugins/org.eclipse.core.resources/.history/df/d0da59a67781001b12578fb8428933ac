@@ -1,0 +1,12 @@
+
+public class manage {
+public static void main(String[] args) {
+	details ob1=new details();
+	ob1.details("biriyani");
+}
+}
+class details{
+	public void details(String order) {
+		System.out.println(order);
+	}
+}
